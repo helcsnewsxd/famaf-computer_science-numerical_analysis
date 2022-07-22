@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from ej1 import rbisec
+from lab2ej1 import rbisec
 
 def graphic(function,point_list,x_range,graphic_title):
     def graphic_points(range_x,point_count):
