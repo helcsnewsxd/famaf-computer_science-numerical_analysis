@@ -23,3 +23,5 @@ def testing_ripf(x0):
     px = ripf(example_function,x0,1e-10,10**9)
 
     return px[-1]
+
+print(testing_ripf(0))
