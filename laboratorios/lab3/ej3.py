@@ -1,4 +1,4 @@
-from lab3ej2 import inewton
+from ej2 import inewton
 from graphic_function import graphic
 
 def f(x):

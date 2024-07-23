@@ -1,6 +1,6 @@
 from graphic_function import graphic
-from lab3ej1 import ilagrange
-from lab3ej2 import inewton
+from ej1 import ilagrange
+from ej2 import inewton
 from scipy.interpolate import interp1d
 
 x_interpol = [-3,-2,-1,0,1,2,3]

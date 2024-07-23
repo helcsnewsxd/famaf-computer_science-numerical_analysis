@@ -1,4 +1,4 @@
-from lab5ej1 import intenumcomp
+from ej1 import intenumcomp
 from numpy import e
 import time
 

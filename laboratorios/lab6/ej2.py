@@ -1,5 +1,5 @@
 import numpy as np
-from lab6ej1 import soltrsup
+from ej1 import soltrsup
 
 def egauss(A,b):
     U = np.copy(A)

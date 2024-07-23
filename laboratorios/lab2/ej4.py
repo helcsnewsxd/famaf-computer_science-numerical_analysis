@@ -12,3 +12,4 @@ def raiz_cubica(a):
 
     return px[-1]
     
+print(f'La raíz cúbica de 8 es {raiz_cubica(8)}')

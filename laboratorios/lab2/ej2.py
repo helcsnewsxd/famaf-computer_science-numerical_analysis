@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from lab2ej1 import rbisec
+from ej1 import rbisec
 
 def graphic(function,point_list,x_range,graphic_title):
     def graphic_points(range_x,point_count):
@@ -57,3 +57,6 @@ def incisoB():
     graphic(fun_lab2ej2b, [px,py], [0,3], "Función B")
 
     return px[-1]
+
+incisoA()
+incisoB()

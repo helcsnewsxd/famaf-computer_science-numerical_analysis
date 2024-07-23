@@ -1,5 +1,5 @@
 import numpy as np
-from lab6ej5 import *
+from ej5 import *
 
 print("         EJERCICIO 6         \n")
 

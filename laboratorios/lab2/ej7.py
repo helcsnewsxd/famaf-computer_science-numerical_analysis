@@ -63,3 +63,7 @@ def lab2ej7ipf():
     graphic(point_list, [0,1.5])
 
     return None
+
+lab2ej7bisec()
+lab2ej7newton()
+lab2ej7ipf()

@@ -1,6 +1,6 @@
 import numpy as np
-from lab6ej2 import soleg
-from lab6ej3 import sollu
+from ej2 import soleg
+from ej3 import sollu
 
 A = np.array([
     [4, -1, 0, -1, 0, 0],

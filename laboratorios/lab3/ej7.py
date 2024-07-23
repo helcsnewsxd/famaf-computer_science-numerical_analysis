@@ -1,5 +1,5 @@
 from bhaskara import bhaskara
-from lab3ej1 import ilagrange
+from ej1 import ilagrange
 
 # Es una muy buena opción para calcular raíces ya que tiene mejor performance que los
 # otros métodos que vimos

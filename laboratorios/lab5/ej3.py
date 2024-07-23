@@ -1,5 +1,5 @@
 import numpy as np
-from lab5ej1 import intenumcomp
+from ej1 import intenumcomp
 from graphic_function import graphic
 
 def senit(x):

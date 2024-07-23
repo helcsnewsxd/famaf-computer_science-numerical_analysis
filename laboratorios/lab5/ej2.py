@@ -1,5 +1,5 @@
 import numpy as np
-from lab5ej1 import intenumcomp
+from ej1 import intenumcomp
 
 print("                     LAB 5 - EJERCICIO 2\n")
 

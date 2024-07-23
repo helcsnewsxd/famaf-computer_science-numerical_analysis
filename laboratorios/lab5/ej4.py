@@ -1,5 +1,5 @@
 import numpy as np
-from lab5ej1 import intenumcomp
+from ej1 import intenumcomp
 
 f = lambda x : x * np.e**(-x)
 g = lambda x : x * np.sin(x)
