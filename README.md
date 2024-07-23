@@ -4,6 +4,25 @@ Repositorio que contiene todo el material del laboratorio de la materia "Anális
 
 El repositorio oficial de la materia se puede encontrar [aquí](https://github.com/lbiedma/anfamaf2022).
 
+## Algoritmos
+
+| Algoritmo | Implementación |
+| --------- | -------------- |
+| Automatización de gráficos | [Python](./algoritmos/Graficos.py) |
+| Horner | [Python](./algoritmos/Horner.py) |
+| Método de Newton (Raíces) | [Python](./algoritmos/Newton_(Raiz).py) |
+| Bisección | [Python](./algoritmos/Biseccion.py) |
+| Interpolación de Newton | [Python](./algoritmos/Newton_(Interpolacion).py) |
+| Interpolación de Lagrange | [Python](./algoritmos/Lagrange.py) |
+| Punto fijo | [Python](./algoritmos/Punto_fijo.py) |
+| Splines | [Python](./algoritmos/Splines.py) |
+| Aproximación por cuadrados mínimos | [Python](./algoritmos/Cuadrados_minimos_discreta.py) |
+| Aproximación de integrales | [Python](./algoritmos/Integrales.py) |
+| Eliminación Gaussiana | [Python](./algoritmos/Eliminacion_gaussiana.py) |
+| Descomposición LU | [Python](./algoritmos/Descomposicion_LU.py) |
+| Jacobi | [Python](./algoritmos/Jacobi.py) |
+| Gauss-Seidel | [Python](./algoritmos/Gauss_Seidel.py) |
+
 ## Laboratorios resueltos
 
 | Laboratorio | Enunciado | Resolución |
